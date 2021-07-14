@@ -13,7 +13,7 @@
     "@chassis/core": "^1.1.3",
     "clean-css": "^4.1.11",
     "fs-extra": "^5.0.0",
-    "postcss": "^6.0.19",
+    "postcss": "^6.0.23",
     "productionline-web": "^1.0.2",
     "shortbus": "^1.2.8"
   }
