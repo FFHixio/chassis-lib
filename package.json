@@ -62,7 +62,7 @@
     "buffer-equal-constant-time": "1.0.1",
     "caniuse-api": "^1.6.1",
     "del": "^2.2.2",
-    "express": "^4.15.2",
+    "express": "^4.17.1",
     "gulp": "3.9.1",
     "gulp-babel": "^6.1.2",
     "gulp-concat": "^2.6.1",
